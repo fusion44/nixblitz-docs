@@ -13,10 +13,14 @@ Key Technologies powering NixBlitz:
 - [NixOS](https://nixos.org/): A Linux distribution that enables declarative and reproducible system configurations
 - [nix-bitcoin](https://nixbitcoin.org/): A curated collection of Nix packages and NixOS modules designed to securely deploy Bitcoin nodes
 
+:::info
+The NixBlitz Project is currently in its research phase, and as such, it may undergo significant changes to both its codebase and system configuration. This means that configurations generated via the CLI may become incompatible at some point. Managing the config manually will always work, though.
+:::
+
 ### Useful links
 
 - Repo - https://github.com/fusion44/nixblitz
-- Docs - https://github.com/fusion44/nixblitz/docs
+- Docs - https://github.com/fusion44/nixblitz-docs
 - Development chat - https://matrix.to/#/#nixblitz:matrix.org
 
 # Disclaimer

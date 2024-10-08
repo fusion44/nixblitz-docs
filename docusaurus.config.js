@@ -77,7 +77,7 @@ const config = {
             label: "Tutorial",
           },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/raspiblitz/nixblitz",
             label: "GitHub",
             position: "right",
           },
@@ -85,26 +85,6 @@ const config = {
       },
       footer: {
         style: "dark",
-        links: [
-          {
-            title: "Community",
-            items: [
-              {
-                label: "Matrix Chat",
-                href: "https://matrix.to/#/#nixblitz:matrix.org",
-              },
-            ],
-          },
-          {
-            title: "More",
-            items: [
-              {
-                label: "GitHub",
-                href: "https://github.com/fusion44/nixblitz",
-              },
-            ],
-          },
-        ],
         copyright: `Copyright © ${new Date().getFullYear()} RaspiBlitz Team, Inc. Built with Docusaurus.`,
       },
       prism: {
