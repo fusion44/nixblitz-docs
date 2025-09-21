@@ -1,3 +1,9 @@
+# Devenv
+.devenv
+
+# ---> Nix
+result
+
 # ---> Node
 # Logs
 logs
@@ -138,3 +144,13 @@ result-*
 # Ignore automatically generated direnv output
 .direnv
 
+
+# Devenv
+.devenv*
+devenv.local.nix
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml
