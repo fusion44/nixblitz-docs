@@ -48,8 +48,14 @@ Currently, only systems with single disks are supported. A more flexible system 
 
 ## Useful links
 
-- Repo - https://github.com/fusion44/nixblitz
-- Docs - https://fusion44.github.io/nixblitz/
+### Repositories
+
+- CLI - https://github.com/fusion44/nixblitz-cli
+- Installer - https://github.com/fusion44/nixblitz-installer
+- Docs - https://github.com/fusion44/nixblitz-docs
+
+### Community
+
 - Development chat
-  - Signal: https://signal.group/#CjQKIGG9LdF6UkJjYODuPAwbUWYwVMmBcbdutWJpSJenJGIWEhCiqGUMg29Dku5o61jZvEak
+  - Signal (preferred): https://signal.group/#CjQKIGG9LdF6UkJjYODuPAwbUWYwVMmBcbdutWJpSJenJGIWEhCiqGUMg29Dku5o61jZvEak
   - Matrix: https://matrix.to/#/#nixblitz:matrix.org
